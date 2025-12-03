@@ -5,9 +5,9 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [Backpack React Web App]
+# Backpack React Web App
 
-[Developed a React-based UI aligned with Skyscanner’s Backpack design system. Focused on building a clean flight-search interface with reusable UI components, responsive layouts, and accessibility standards.]
+Developed a React-based UI aligned with Skyscanner’s Backpack design system. Focused on building a clean flight-search interface with reusable UI components, responsive layouts, and accessibility standards.
 
 ## npm script commands
 
