@@ -25,6 +25,7 @@ The project focuses on a clean flight search interface, responsive layout, and r
 
 - Following design guidelines and standards
 
+---
 > _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) +
 > [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts)._
 > It is very similar to one that you would create using [Create React App](https://github.com/facebook/create-react-app)
