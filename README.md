@@ -1,10 +1,3 @@
-> _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) +
-> [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts)._
-> It is very similar to one that you would create using [Create React App](https://github.com/facebook/create-react-app)
-> without [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts),
-> so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
-> for more usage information.
-
 # ✈️ Backpack React Web App – Skyscanner 
 
 A React-based UI built using Backpack Design System via backpack-react-scripts as part of the Skyscanner Front-End Engineering Virtual Experience Program (Forage).
@@ -31,6 +24,13 @@ The project focuses on a clean flight search interface, responsive layout, and r
 - Real-world Front-End workflow using React
 
 - Following design guidelines and standards
+
+> _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) +
+> [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts)._
+> It is very similar to one that you would create using [Create React App](https://github.com/facebook/create-react-app)
+> without [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts),
+> so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
+> for more usage information.
 
 ## npm script commands
 
