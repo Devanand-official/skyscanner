@@ -5,7 +5,7 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# ✈️ Backpack React Web App – Skyscanner Front-End Simulation
+# ✈️ Backpack React Web App – Skyscanner 
 
 A React-based UI built using Backpack Design System via backpack-react-scripts as part of the Skyscanner Front-End Engineering Virtual Experience Program (Forage).
 The project focuses on a clean flight search interface, responsive layout, and reusable UI components aligned with Skyscanner UX standards.
